@@ -2,7 +2,7 @@
 
 # Hi, welcome 👋 — I'm Lavenda Oluoch
 
-[![Your Name](https://img.shields.io/badge/YOUR_NAME-007ACC?style=for-the-badge&labelColor=007ACC&logoColor=white)](https://github.com/oluochl)
+[!Lavenda Oluoch (https://img.shields.io/badge/YOUR_NAME-007ACC?style=for-the-badge&labelColor=007ACC&logoColor=white)](https://github.com/oluochl)
 
 ## About Me
 
